@@ -45,7 +45,7 @@ Una aplicación en **Python** para configurar, descargar y ejecutar diferentes t
    ```
 4. Ejecuta el script y sigue las instrucciones en pantalla:  
    ```bash
-   python src/server.py
+   python main.py
    ```
 5. **Configura el servidor manualmente** según tus necesidades.  
 
